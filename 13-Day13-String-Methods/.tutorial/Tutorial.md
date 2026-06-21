@@ -215,7 +215,7 @@ Output:
 True
  ```
 ## isalpha() :
-The isalnum() method returns True only if the entire string only consists of A-Z, a-z. If any other characters or punctuations or numbers(0-9) are present, then it returns False.
+The isalpha() method returns True only if the entire string only consists of A-Z, a-z. If any other characters or punctuations or numbers(0-9) are present, then it returns False.
 ### Example :
 ```python
 str1 = "Welcome"
